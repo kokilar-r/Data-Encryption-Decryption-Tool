@@ -574,7 +574,7 @@ st.divider()
 
 st.header("👨‍💻 Developer Details")
 
-st.write("**Name:** S. Karthik")
+st.write("**Name:** kokila.R")
 
 st.write(
     "**Course:** Computer Science Engineering"
